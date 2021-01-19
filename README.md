@@ -100,6 +100,10 @@ I planned on this project improving my skills in the following:
 *Key 3* - Description of what Key 3 does
 
 
-!Developed by Starshiplad ![Twitter](https://twitter.com/StarshipladDevp) 
+Developed by Starshiplad 
+
+![Twitter](https://twitter.com/StarshipladDevp) 
+
+![Discord](https://discord.gg/jAqfVpmqdA)
 
 ![Developed by Starshipladdev](LogoFull.png)
