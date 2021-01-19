@@ -102,8 +102,8 @@ I planned on this project improving my skills in the following:
 
 Developed by Starshiplad 
 
-![Twitter](https://twitter.com/StarshipladDevp) 
+[Twitter](https://twitter.com/StarshipladDevp) 
 
-![Discord](https://discord.gg/jAqfVpmqdA)
+[Discord](https://discord.gg/jAqfVpmqdA)
 
 ![Developed by Starshipladdev](LogoFull.png)
