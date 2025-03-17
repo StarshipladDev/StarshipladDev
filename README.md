@@ -107,3 +107,38 @@ Developed by Starshiplad
 [Discord](https://discord.gg/jAqfVpmqdA)
 
 ![Developed by Starshipladdev](LogoFull.png)
+
+
+# Issue Styling
+
+For any issues encountered within my repos, lease use the below format guide:
+
+# Description
+
+	Description of the issue encountered and files beleived affected
+
+## Expected Behavior
+
+	A description of the excpected behaviour of the issue
+
+## Steps to Reproduce
+
+	Any steps that can be taken to validate the issue is repeatable.
+
+## Suggested Solution
+
+    Any suggestions as to actions that could be taken to resolve
+
+## Additional Context
+
+    Link 1: ![A link to a reference resource or solution guide](link)
+    Link 2: ![A link to a reference resource or solution guide](link)
+
+## Tasks
+
+ > A List of tasks
+ > Needed to mark as complete
+
+## Environment
+
+    The repository and type of program this relates to 
